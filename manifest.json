@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "XPath <button>'s locators",
+  "description": "Show all <button>'s on a page with unique xpath selector",
+  "version": "1.0",
+  "permissions": ["scripting", "activeTab", "tabs"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
